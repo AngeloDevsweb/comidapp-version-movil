@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "comidasApp",
-    "slug": "comidasApp",
+    "name": "app",
+    "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/appcomidaicon.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/comidappSplash.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,10 +21,9 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/appcomidaicon.png",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.angelodevs.comidapp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
